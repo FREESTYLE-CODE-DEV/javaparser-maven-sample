@@ -13,7 +13,11 @@
         <version>3.8.1</version>
         <executions>
           <execution>
-            <id>default-compile</id>
+            <id>default-compile</id>codes handiling 
+            {
+            123
+            }adding codes
+            
             <configuration>
               <!-- compile everything to ensure module-info contains right entries -->
               <!-- required when JAVA_HOME is JDK 8 or below -->
